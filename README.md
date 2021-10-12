@@ -36,13 +36,69 @@ These may include, but are not limited to:
 * Iconography
 
 ## Design
+### Desktop layout
 I am currently thinking of a design that will look roughly as follows, note however, that this is subject to change.
 #### Main layout
-![Menu Hideden](/documentation/images/menu-retracted.png)
+![Menu Hidden](https://github.com/ZiotecH/we1-main-proj/blob/dev/documentation/images/Menu-Retracted.png)
 ##### With the menu extended
-![Menu Hideden](/documentation/images/menu-extended.png)
-
-
+![Menu Visible](https://github.com/ZiotecH/we1-main-proj/blob/dev/documentation/images/Menu-Extended.png)
+### Mobile layout
 
 ## Time budget
 I am fairly confident I can achieve this within the alotted time, barring any major issues or bugs.
+
+
+# Progress
+Below is a simple breakdown of my progress so far.
+
+* Documentation/Drafting
+- [x] Add written draft
+- [x] Add image portraying intended desktop layout
+- [ ] Add image portraying intended mobile layout
+- [ ] Get approval
+- [ ] Draft CSS rules (colourscheme, animations, 'paradigm')
+
+* Development
+- [ ] Prototype portfolio page
+- [ ] Prototype menu
+- [ ] Prototype about me
+- [ ] Prototype portfolio subsection A
+- [ ] Prototype portfolio subsection B
+- [ ] Prototype portfolio subsection C
+- [ ] Prototype contact
+- [ ] Prototype 3rd-party lisences
+- [ ] Develop backend upload tool
+
+* Portfolio page
+- [ ] Establish layout
+- [ ] Decide fonts
+- [ ] Decide iconographics
+- [ ] Design favicon
+- [ ] Implement clickable boxes with thumbnails
+
+* Menu
+- [ ] Populate and design menu
+- [ ] Add CSS animation and JS states (opened/closed)
+- [ ] Make buttons clickable
+- [ ] ~~hide easter egg~~
+
+* About me
+- [ ] Write a simple bio
+
+* Portfolio subsections
+- [ ] Design 'filtered' view
+- [ ] Differentiate objects based on category
+
+* Contact
+- [ ] Include links to social media ~~ew~~
+- [ ] Include email
+- [ ] Include IM links
+
+* 3rd-party lisences
+- [ ] Include links to 3rd-party repos used
+- [ ] Make separate CSS styling for ease of access, not too jarring
+
+* Backend upload tool
+- [ ] Using Image Magick, implement simple tool to design thumbnail
+- [ ] Integrate tool with website (git)
+- [ ] Publish tool in this repo

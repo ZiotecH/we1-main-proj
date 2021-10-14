@@ -102,3 +102,5 @@ Below is a simple breakdown of my progress so far.
 - [ ] Using Image Magick, implement simple tool to design thumbnail
 - [ ] Integrate tool with website (git)
 - [ ] Publish tool in this repo
+
+# EOF
